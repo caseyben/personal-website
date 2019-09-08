@@ -2,9 +2,9 @@ import React from 'react'
 
 const Navbar = () => {
     return(
-        <nav style={{backgroundColor:'red'}}>
+        <nav>
             <div>
-                <ul>
+                <ul style={{flexDirection:'row'}}>
                     <li><a href="/">Casey Smith</a></li>
                     <li><a href="/about">About</a></li>
                     <li><a href="/resume">Resume</a></li>
