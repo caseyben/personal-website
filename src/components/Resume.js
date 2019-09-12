@@ -2,7 +2,9 @@ import React from 'react'
 
 const Resume = () => {
     return(
-        <div>resume</div>
+        <div class="container white">
+                hi
+        </div>
     )
 }
 
